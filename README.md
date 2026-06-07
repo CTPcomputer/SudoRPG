@@ -1,3 +1,5 @@
+Now I delete the log_in page and player can dowload it and play without any log-in
+
 # SudokuRPG-CSCI3100-project
 -Install and unzip the folder
 -install backend package
